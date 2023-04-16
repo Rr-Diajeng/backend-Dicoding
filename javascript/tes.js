@@ -1,18 +1,18 @@
-const createPersonWithAge = (age, person) => {
-    person.age = age;
-    return person;
-  };
+// const createPersonWithAge = (age, person) => {
+//     person.age = age;
+//     return person;
+//   };
   
-  const person = {
-    name: 'Bobo'
-  };
+//   const person = {
+//     name: 'Bobo'
+//   };
   
-  const newPerson = createPersonWithAge(18, person);
+//   const newPerson = createPersonWithAge(18, person);
   
-  console.log({
-    person,
-    newPerson
-  });
+//   console.log({
+//     person,
+//     newPerson
+//   });
   
   /**
    * Output:
@@ -22,3 +22,6 @@ const createPersonWithAge = (age, person) => {
       }
   */
   
+const a = "b";
+const c = "d";
+console.log(a + c);
