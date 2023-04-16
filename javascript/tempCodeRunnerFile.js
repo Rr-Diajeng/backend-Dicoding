@@ -1,0 +1,2 @@
+myRabbit.eat();
+myEagle.fly();
